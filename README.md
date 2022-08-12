@@ -1,8 +1,8 @@
-# BioChem
+# Co-culture fermentation model and optimisation 
 
-% Lucas Van der Hauwaert. University of Santiago de Compostela. Spain
-% October 2021.Please contact lucas.vanderhauwaert@usc.es if you
-% intend to use this code.
+Lucas Van der Hauwaert. University of Santiago de Compostela. Spain
+October 2021.Please contact lucas.vanderhauwaert@usc.es if you 
+intend to use this code.
 
 Code to develop a model of a co-culture reactor producing proprionate 
 while implementing In-situ product removal (ISPR) by reverse enhanced 
