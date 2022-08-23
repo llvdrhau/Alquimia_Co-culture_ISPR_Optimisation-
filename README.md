@@ -45,7 +45,8 @@ Iman, Ronald L, and W J Conover. 2007. “Communications in Statistics
 - Simulation and A Distribution-Free Approach to Inducing Rank Correlation 
 among Input Variables,” no. September 2012: 37–41.
 
-Van der hauwaert et al. (2021)()
+Van der hauwaert et al.(2022)
+DOI: XXXXXXXXX
 
 
 
