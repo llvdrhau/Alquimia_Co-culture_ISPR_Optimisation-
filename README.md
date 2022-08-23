@@ -41,8 +41,7 @@ Please run RUN_ME_FIRST to connect all the folders to the working directory
 
 bib
 
-Iman, Ronald L, and W J Conover. 2007. “Communications in Statistics 
-- Simulation and A Distribution-Free Approach to Inducing Rank Correlation 
+Iman, Ronald L, and W J Conover. 2007. “Communications in Statistics - Simulation and A Distribution-Free Approach to Inducing Rank Correlation 
 among Input Variables,” no. September 2012: 37–41.
 
 Van der hauwaert et al.(2022)
