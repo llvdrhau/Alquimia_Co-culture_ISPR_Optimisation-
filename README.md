@@ -21,14 +21,14 @@ extraction data, spike data and information for the structure "parameters"
 * kinetics: function holding the kinetic expresions used in the mass
  balances 
 
-* Sampling: functions to perform a latin hyper cube sampling incorporating 
+* sampling: functions to perform a latin hyper cube sampling incorporating 
 correlations between parameters according to the methods of 
 Iman-Conover (2007). 
 
-* Calibration: runs parameter estimation, Monte Carlo simuilations and the
+* calibration: runs parameter estimation, Monte Carlo simuilations and the
 bootstrap methode for the two batch models
 
-* Validation: comibing parameters for both models and validating them on
+* validation: comibing parameters for both models and validating them on
  experiment BV5
  
 * optimisation: scripts running single, multiple and stochastic 
