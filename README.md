@@ -45,7 +45,7 @@ Iman, Ronald L, and W J Conover. 2007. “Communications in Statistics - Simulat
 among Input Variables,” no. September 2012: 37–41.
 
 Van der hauwaert et al.(2022)
-DOI: XXXXXXXXX
+DOI: https://doi.org/10.1016/j.compchemeng.2022.108059
 
 
 
